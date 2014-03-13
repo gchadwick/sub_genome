@@ -1,0 +1,1 @@
+sub_genome is a script to pull down short subsets of fully sequenced genomes.  this is mostly for practice using biopython and github, but should be useful in making artificial mini genomes.  these can then be fed into Grinder to simulate illumina datasets that can then be fed into various assemblers.
